@@ -1,80 +1,37 @@
-<!-- Top Pink Aesthetic Banner -->
-<img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
-
-<br/>
-
-<h2 align="center">Anamika</h2>
-<p align="center">
-  <small>Computer Science Student • Software Developer</small>
-</p>
-
-<br/>
-
-<!-- Terminal Box Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90px" alt="Pixel Character" />
-      </td>
-      <td align="left">
-<pre>
- _  _ ____ _    _    ___     _ _ _ ____ ____ _    ___  
- |__| |___ |    |    |  |    | | | |  | |__/ |    |  \ 
- |  | |___ |___ |___ |__|    |_|_| |__| |  \ |___ |__/ 
-</pre>
-      </td>
-    </tr>
-  </table>
-  <p><code>> system online - welcome_</code></p>
+  <img src="https://i.imgur.com/your-header-image.png" alt="Header Image" width="100%">
 </div>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Anamika P Anil</h1>
+<h3 align="center">Computer Science Engineering Student</h3>
+<h4 align="center">Software Developer & Cybersecurity Enthusiast</h4>
 
-### whoami
+<p align="center">
+  Building secure systems with a focus on Zero Trust architecture and developing impactful applications.
+</p>
+
 ---
-I'm **Anamika** — a Computer Science Engineering student based in Kerala. I build full-stack web applications, resilient backend systems, and design clean interfaces. Currently, I am sharpening my problem-solving skills and continuously learning new technologies to build systems that last. Always open to interesting problems and creating pixel-perfect designs.
 
-<br/>
+## 🚀 About Me
 
-<div align="center">
-  
-### tech stack
-<img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,figma,postman&perline=16" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=ff79c6&line=ff79c6&point=FFFFFF&hide_border=true" width="100%" />
-
-<br/>
-
-<!-- Stats Row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dracula&hide_border=true" width="48%" />
-</p>
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><b>Anamika</b> here — a final-year Computer Science and Engineering student graduating in 2027.</p>
+    <p>I enjoy exploring cybersecurity domains like Moving Target Defense, SIEM dashboards, and honeypots, alongside building robust software using modern frameworks.</p>
+    <p>Currently, I'm developing <b>SafeWalk</b>, a women's safety mobile application in Flutter, and working on an ongoing capstone project focusing on a <b>Zero Trust-Enabled Dynamic Moving Target Defense System</b> using Linux iptables and port hopping.</p>
+    <p>My goal is simple: write secure, clean code, build reliable software, and continuously sharpen my problem-solving skills to create systems that last.</p>
+  </div>
+  <div style="flex: 0 0 30%;">
+    <img align="right" src="https://i.imgur.com/your-astronaut-image.gif" alt="Astronaut" width="200">
+  </div>
 </div>
 
-<br/>
+<br>
 
-### let's build something.
 ---
-<div align="center">
-  <p>📍 Kerala, India</p>
-  
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/CodeByAnamikaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
-<br/>
+<h2 align="center">🤝 Connect</h2>
 
-<!-- Bottom Pink Aesthetic Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
-</p>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href
