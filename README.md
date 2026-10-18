@@ -1,9 +1,9 @@
-<!-- Top Banner -->
+<!-- Astronaut Custom Banner with black background -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=220&section=header&text=ANAMIKA&fontSize=48&fontAlignY=40&desc=Frontend%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=62&descAlign=50&theme=tokyonight" alt="Anamika Header" width="100%" />
+  <img src="https://i.ibb.co/C0W2422b/image-8.png" alt="Anamika Space Astronaut Banner" width="100%" />
 </p>
 
-<!-- Name & Subtitle -->
+<!-- Title & Identity -->
 <h1 align="center">Hi 🪐, I'm Anamika</h1>
 <h3 align="center">Software Developer & Computer Science Engineer</h3>
 <p align="center">
@@ -39,11 +39,8 @@
 
 ### 🤝 Connect
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 ---
@@ -59,8 +56,14 @@
 
 ### 📊 GitHub Stats
 
+<!-- Centered streak stat customized with dark black backdrop styling -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAnamikaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
