@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Anamika P Anil and I'm a Computer Science and Engineering Student</h2>
 
 <p align="left">
-  I am passionate about software development, mobile application engineering, and cybersecurity. I enjoy building secure, scalable applications and exploring network defense architectures, AI-driven detection models, and modern cross-platform development.
+  I am passionate about software development, mobile application engineering. I enjoy building secure, scalable applications and exploring network defense architectures, AI-driven detection models, and modern cross-platform development.
 </p>
 
 ###
