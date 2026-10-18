@@ -1,6 +1,6 @@
-<!-- The Banner -->
+<!-- THE BANNER: Change the link inside src="" to change the banner -->
 <p align="center">
-  <img src="hands.jpg" alt="Pixel Hands Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=300&auto=format&fit=crop" alt="Dark Space Banner" width="100%" />
 </p>
 
 <!-- Header Section -->
@@ -34,6 +34,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
+      <!-- THE ABOUT ME GIF: Change the link inside src="" to change the pixel art -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut GIF" width="200px" />
     </td>
   </tr>
@@ -45,7 +46,6 @@
 
 ### 🤝 Connect
 
-<!-- Minimal Connect Icons -->
 <a href="https://github.com/CodeByAnamikaa" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
@@ -57,7 +57,6 @@
 
 ### 💻 Tech Stack
 
-<!-- Clean Grid of Skill Icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,aws,figma&perline=8" />
 </a>
@@ -66,10 +65,18 @@
 
 ### 📊 GitHub Stats
 
+<!-- These are automatically generated based on your username -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
 </p>
 
 <br/>
 
-### 📈 Activity
+### 📈 Activity Graph
+
+<!-- This graph is automatically generated based on your username -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+</div>
