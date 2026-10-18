@@ -1,6 +1,6 @@
 <!-- THE BANNER: Change the link inside src="" to change the banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=300&auto=format&fit=crop" alt="Dark Space Banner" width="100%" />
+ <img src="https://images.unsplash.com/photo-1614729939124-032f0b56c9ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Dark Space Banner" width="100%" />
 </p>
 
 <!-- Header Section -->
