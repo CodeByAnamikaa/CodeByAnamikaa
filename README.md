@@ -1,86 +1,87 @@
-<!-- Custom Astronaut Cinematic Banner (No Earth) -->
+<!-- Top Retro Pink Grid Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/XfRsw0c5/image-13.png" alt="Anamika Astronaut Banner" width="100%" />
-</p>
-
-<!-- Header Section -->
-<h2 align="center">Hi 👋, Imma Anamika</h2>
-<h4 align="center">Computer Science Student</h4>
-<p align="center">
-  <b>Just Keep Coding</b>
-</p>
-<p align="center">
-  <small>Building reliable software systems with clean architecture and scalable solutions.</small>
+  <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
 </p>
 
 <br/>
 
-### 🚀 About Me
+<h2 align="center">Anamika</h2>
+<p align="center">
+  <small>Full Stack Developer • Computer Science Student</small>
+</p>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        <b>Anamika.</b> Here — a Computer Science Engineering student focused on software development.
-      </p>
-      <p>
-        I enjoy building scalable, production-ready applications and continuously improving my understanding of real-world software systems.
-      </p>
-      <p>
-        Currently, I'm learning <b>Full-Stack Development, Data Structures & Algorithms, and System Design</b>, while sharpening my problem-solving skills.
-      </p>
-      <p>
-        My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut GIF" width="200px" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<!-- Terminal Box Section (Character + ASCII) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90px" alt="Pixel Character" />
+      </td>
+      <td align="left">
+<pre>
+ _  _ ____ _    _    ___     _ _ _ ____ ____ _    ___  
+ |__| |___ |    |    |  |    | | | |  | |__/ |    |  \ 
+ |  | |___ |___ |___ |__|    |_|_| |__| |  \ |___ |__/ 
+</pre>
+      </td>
+    </tr>
+  </table>
+  <p><code>> system online - welcome_</code></p>
+</div>
+
+<br/>
+
+### whoami
+---
+I'm **Anamika** — a Computer Science Engineering student based in Kerala. I build full-stack web applications, resilient backend systems, and design clean interfaces. Currently, I am sharpening my problem-solving skills and continuously learning new technologies to build systems that last. Always open to interesting problems and creating pixel-perfect designs.
+
+<br/>
 
 <div align="center">
+  
+### tech stack
+<img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,figma,postman&perline=16" />
+
+<br/><br/>
+
+<!-- Activity Graph (Pink Theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=ff79c6&line=ff79c6&point=FFFFFF&hide_border=true" width="100%" />
 
 <br/>
 
-### 🤝 Connect
-
-<a href="https://github.com/CodeByAnamikaa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/>
-
-### 💻 Tech Stack
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,figma&perline=8" />
-</a>
-
-<br/>
-
-### 📊 GitHub Stats
-
+<!-- Stats Row -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dracula&hide_border=true" width="48%" />
 </p>
 
-<br/>
-
-### 📈 Activity Graph
-
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAnamikaa&layout=compact&theme=dracula&hide_border=true" width="60%" />
 </p>
-
-<br/>
-
-### ⚔️ Philosophy
-
-> *"Wenn man richtig will, schafft man das."*  
-> *(If you really want to, you can do it.)*
 
 </div>
+
+<br/>
+
+### let's build something.
+---
+<div align="center">
+  <p>📍 Kerala, India</p>
+  
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/CodeByAnamikaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Bottom Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
+</p>
