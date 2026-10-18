@@ -1,13 +1,11 @@
-<!-- Top Dark Space Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
-</p>
+<!-- Top Pink Aesthetic Banner -->
+<img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
 
 <br/>
 
 <h2 align="center">Anamika</h2>
 <p align="center">
-  <small>Full Stack Developer • Computer Science Student</small>
+  <small>Computer Science Student • Software Developer</small>
 </p>
 
 <br/>
@@ -46,20 +44,15 @@ I'm **Anamika** — a Computer Science Engineering student based in Kerala. I bu
 
 <br/><br/>
 
-<!-- Activity Graph (Dark Blue Theme) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=ff79c6&line=ff79c6&point=FFFFFF&hide_border=true" width="100%" />
 
 <br/>
 
-<!-- Stats Row (Dark Theme) -->
+<!-- Stats Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<!-- Top Languages (Dark Theme) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAnamikaa&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dracula&hide_border=true" width="48%" />
 </p>
 
 </div>
@@ -81,7 +74,7 @@ I'm **Anamika** — a Computer Science Engineering student based in Kerala. I bu
 
 <br/>
 
-<!-- Bottom Dark Space Banner -->
+<!-- Bottom Pink Aesthetic Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
 </p>
