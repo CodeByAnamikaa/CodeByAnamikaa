@@ -1,62 +1,81 @@
-<!-- Girly Pink Aesthetic Banner -->
+<!-- The Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=1200&auto=format&fit=crop" alt="Aesthetic Pink Clouds" width="100%" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Abstract Tech Banner" width="100%" />
 </p>
 
-<!-- Title & Identity -->
-<h1 align="center">Hi 🌸, I'm Anamika</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<!-- Header Section -->
+<h2 align="center">Hi 👋, Imma Anamika</h2>
+<h4 align="center">Computer Science Student</h4>
 <p align="center">
-  <code>&gt; Designing clean interfaces & building beautiful applications</code>
+  <b>Just Keep Coding</b>
+</p>
+<p align="center">
+  <small>Building reliable software systems with clean architecture and scalable solutions.</small>
 </p>
 
----
+<br/>
 
-### 🎀 About Me
+### 🚀 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        I'm a computer science engineering student passionate about software development, mobile apps, and creating intuitive user experiences.
+        <b>Anamika.</b> Here — a Computer Science Engineering student focused on software development.
       </p>
       <p>
-        I love turning creative ideas into real, working projects and I am always excited to learn new technologies to build better applications.
+        I enjoy building scalable, production-ready applications and continuously improving my understanding of real-world software systems.
+      </p>
+      <p>
+        Currently, I'm learning <b>Full-Stack Development, Data Structures & Algorithms, and System Design</b>, while sharpening my problem-solving skills.
+      </p>
+      <p>
+        My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Cute pixel art aesthetic GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4YWQ5ZjgxNzMyZGRhNDRlNDM3Njc4MGMwNzQzYjU3NzQ1ZTAyYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1Fm7jEapE18HwwyQqw/giphy.gif" alt="Cute Coding Girl" width="200px" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut GIF" width="200px" />
     </td>
   </tr>
 </table>
 
----
-
 <div align="center">
 
-### 🤝 Connect With Me
+<br/>
 
+### 🤝 Connect
+
+<!-- Minimal Connect Icons -->
+<a href="https://github.com/CodeByAnamikaa" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF9A8B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
----
+<br/>
 
-### 💻 My Tech Stack
+### 💻 Tech Stack
 
-<!-- Automatically loads icons for Flutter, Python, Java, Dart, etc. -->
+<!-- Clean Grid of Skill Icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,py,java,cs,html,css,js,react,tailwind&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,aws,figma&perline=8" />
 </a>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
+</p>
+
+<br/>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 </div>
