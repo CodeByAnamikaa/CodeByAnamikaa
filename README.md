@@ -1,6 +1,6 @@
 <!-- The Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Abstract Tech Banner" width="100%" />
+  <img src="hands.jpg" alt="Pixel Hands Banner" width="100%" />
 </p>
 
 <!-- Header Section -->
@@ -72,10 +72,4 @@
 
 <br/>
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-</div>
+### 📈 Activity
