@@ -1,13 +1,16 @@
-<!-- The Astronaut Rectangle Banner -->
+<!-- Custom Astronaut Cinematic Banner (No Earth) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=1200&h=300&auto=format&fit=crop" alt="Astronaut Banner" width="100%" />
+  <img src="https://i.ibb.co/XfRsw0c5/image-13.png" alt="Anamika Astronaut Banner" width="100%" />
 </p>
 
-<!-- Header Section matching the reference -->
+<!-- Header Section -->
 <h2 align="center">Hi 👋, Imma Anamika</h2>
-<h4 align="center">Computer Science Student & Software Developer</h4>
+<h4 align="center">Computer Science Student</h4>
 <p align="center">
-  <code>&gt; Pixel Perfect Designs</code>
+  <b>Just Keep Coding</b>
+</p>
+<p align="center">
+  <small>Building reliable software systems with clean architecture and scalable solutions.</small>
 </p>
 
 <br/>
@@ -18,20 +21,20 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        So here's the coffee ☕ I'm a computer science student, and yes, also the builder. Basically I wear every hat in the building, mostly because there's nobody else around to wear them (it's fine, I'm fine).
+        <b>Anamika.</b> Here — a Computer Science Engineering student focused on software development.
       </p>
       <p>
-        I blend chaotic code, pixel perfect designs, and executive decisions into real, actual, shipped products no cap. I lead projects end to end, which is just a fancy way of saying I do all the work myself while pretending it was a whole team effort.
+        I enjoy building scalable, production-ready applications and continuously improving my understanding of real-world software systems.
       </p>
       <p>
-        My days basically go: dream up a concept ➔ build it ➔ break it ➔ fix the bug I definitely just created ➔ repeat until it works ➔ act surprised when it works.
+        Currently, I'm learning <b>Full-Stack Development, Data Structures & Algorithms, and System Design</b>, while sharpening my problem-solving skills.
       </p>
       <p>
-        Aggressively hands on, mildly caffeinated, permanently turning wild ideas into reality powered by an unreasonable amount of love, coffee, and water (in that exact order, don't @ me).
+        My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Art Coding" width="200px" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut GIF" width="200px" />
     </td>
   </tr>
 </table>
@@ -53,7 +56,6 @@
 
 ### 💻 Tech Stack
 
-<!-- Your exact tech stack (No AWS) -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,java,cs,html,css,js,react,tailwind,nodejs,mysql,postgres,git,github,docker,figma&perline=8" />
 </a>
@@ -63,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
 </p>
 
 <br/>
@@ -71,7 +73,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br/>
@@ -79,5 +81,6 @@
 ### ⚔️ Philosophy
 
 > *"Wenn man richtig will, schafft man das."*  
-> — Malika
+> *(If you really want to, you can do it.)*
+
 </div>
