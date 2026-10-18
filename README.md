@@ -1,6 +1,6 @@
-<!-- Top Retro Pink Grid Banner -->
+<!-- Top Dark Space Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
 </p>
 
 <br/>
@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Terminal Box Section (Character + ASCII) -->
+<!-- Terminal Box Section -->
 <div align="center">
   <table>
     <tr>
@@ -33,7 +33,7 @@
 
 <br/>
 
-### anami
+### whoami
 ---
 I'm **Anamika** — a Computer Science Engineering student based in Kerala. I build full-stack web applications, resilient backend systems, and design clean interfaces. Currently, I am sharpening my problem-solving skills and continuously learning new technologies to build systems that last. Always open to interesting problems and creating pixel-perfect designs.
 
@@ -46,20 +46,20 @@ I'm **Anamika** — a Computer Science Engineering student based in Kerala. I bu
 
 <br/><br/>
 
-<!-- Activity Graph (Pink Theme) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=ff79c6&line=ff79c6&point=FFFFFF&hide_border=true" width="100%" />
+<!-- Activity Graph (Dark Blue Theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByAnamikaa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" />
 
 <br/>
 
-<!-- Stats Row -->
+<!-- Stats Row (Dark Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAnamikaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAnamikaa&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- Top Languages -->
+<!-- Top Languages (Dark Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAnamikaa&layout=compact&theme=dracula&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAnamikaa&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 </div>
@@ -81,7 +81,7 @@ I'm **Anamika** — a Computer Science Engineering student based in Kerala. I bu
 
 <br/>
 
-<!-- Bottom Banner -->
+<!-- Bottom Dark Space Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1534796636918-9f1d081b7e15?q=80&w=1200&h=150&auto=format&fit=crop" width="100%" />
 </p>
