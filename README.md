@@ -33,7 +33,7 @@
 
 <br/>
 
-### whoami
+### anami
 ---
 I'm **Anamika** — a Computer Science Engineering student based in Kerala. I build full-stack web applications, resilient backend systems, and design clean interfaces. Currently, I am sharpening my problem-solving skills and continuously learning new technologies to build systems that last. Always open to interesting problems and creating pixel-perfect designs.
 
