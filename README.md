@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeByAnamikaa/CodeByAnamikaa/main/banner.jpg" width="100%" alt="Moon and sun illustration banner" />
+  <img src="https://raw.githubusercontent.com/CodeByAnamikaa/CodeByAnamikaa/main/download(1).jpg" width="100%" alt="Moon and sun illustration banner" />
 </p>
 
 <h2 align="left">Hi 👋! My name is Anamika P Anil and I'm a Computer Science and Engineering Student</h2>
